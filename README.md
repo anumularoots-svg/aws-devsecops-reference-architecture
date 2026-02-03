@@ -143,3 +143,7 @@ Cloud cost management:
 **Author:**  
 **Anil Kumar A**  
 Senior DevSecOps Engineer | AWS Platform Architect
+
+📄 **[Download My Resume](assets/resume/Anil_Kumar_DevSecOps_Architect.pdf)**  
+🔗 **[View My LinkedIn Service Page](https://www.linkedin.com/in/your-linkedin-id/)**
+
