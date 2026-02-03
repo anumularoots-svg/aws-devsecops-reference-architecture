@@ -1,11 +1,10 @@
 # Enterprise AWS Platform Architecture
 ### DevOps | Platform Engineering | Cloud Architecture
 
-👋 Hi, I’m Anil Kumar A
-Senior DevSecOps Engineer | AWS Platform & Cloud Architect
-
+👋 Hi, I’m Anil Kumar A — Senior DevOps Engineer | AWS Platform & Cloud Architect
+ 
 🌍 13+ years of IT experience, including 7+ years designing and operating AWS cloud platforms
-☁️ Strong experience in AWS architecture, DevSecOps automation, Kubernetes platforms, and CI/CD systems
+☁️ Experience in AWS architecture, DevOps automation, Kubernetes platforms, and CI/CD systems
 🚀 I help organizations design, secure, deploy, and scale production-grade cloud platforms with confidence.
 
 I specialize in end-to-end platform ownership, where I:
@@ -289,4 +288,5 @@ The objective is predictable AWS spend.
 - Is cost reviewed periodically?
 
 This checklist prevents cost leakage.
+
 
