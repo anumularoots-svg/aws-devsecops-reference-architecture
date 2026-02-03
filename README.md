@@ -7,6 +7,46 @@
 ☁️ Strong experience in **AWS architecture, DevOps automation, Kubernetes platforms, and CI/CD systems**  
 🚀 I help organizations **design, secure, deploy, and scale production-grade cloud platforms** with confidence.
 
+
+enterprise-aws-platform-architecture/
+│
+├── README.md
+├── 00-executive-summary/
+│   └── overview.md
+├── 01-architecture/
+│   ├── system-architecture.png
+│   └── architecture-decisions.md
+├── 02-infrastructure-as-code/
+│   ├── README.md
+│   └── terraform/
+│       ├── modules/
+│       │   ├── vpc/
+│       │   ├── eks/
+│       │   ├── iam/
+│       │   └── rds/
+│       └── environments/
+│           ├── dev/
+│           ├── staging/
+│           └── prod/
+├── 03-ci-cd-platform/
+│   ├── pipeline-flow.md
+│   ├── Jenkinsfile
+│   └── github-actions.yml
+├── 04-security-devsecops/
+│   ├── security-model.md
+│   ├── iam-strategy.md
+│   └── container-scanning.md
+├── 05-platform-operations/
+│   ├── monitoring.md
+│   ├── alerting.md
+│   └── incident-response.md
+├── 06-cost-governance-finops/
+│   ├── cost-strategy.md
+│   └── optimization-checklist.md
+└── assets/
+    └── diagrams/
+
+
 ---
 
 ## Platform Ownership Focus
@@ -143,4 +183,5 @@ Cloud cost management:
 **Author:**  
 **Anil Kumar A**  
 Senior DevSecOps Engineer | AWS Platform Architect
+
 
